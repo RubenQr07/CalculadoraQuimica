@@ -1,6 +1,6 @@
 import streamlit as st
-File "calculadoraquimica.py"
 from rdkit import Chem 
+File "calculadoraquimica.py"
 from rdkit.Chem import Descriptors
 
 # Función para calcular propiedades químicas
