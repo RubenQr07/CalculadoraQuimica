@@ -1,6 +1,5 @@
 import streamlit as st
-File "/mount/src/calculadoraquimica/calculadoraquimica.py"
-from rdkit import Chem 
+from rdkit import Chem File "/mount/src/calculadoraquimica/calculadoraquimica.py"
 from rdkit.Chem import Descriptors
 
 # Función para calcular propiedades químicas
